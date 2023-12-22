@@ -1,4 +1,4 @@
-VGG16分类AKR极光千米波 B4系列
+VGG16分类AKR极光千米波 B4系列（无pth文件版）
 main.py：训练模型 pth文件
 main2.py：更改
 1.py：能否cuda加速
